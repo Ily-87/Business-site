@@ -1,0 +1,57 @@
+body {
+  font-family: 'nadeem', sansserif;
+  font-size: 30px;
+}
+
+ul {
+  padding: 10;
+  list-style: none;
+}
+
+header {
+/* display: flex; */
+  border: 5px solid black;
+  padding-left: 10px;
+  margin-left: 20px;
+  /* display: flex; */
+  /* justify-content: space-between; */
+  align-items: center;
+  /* height: 100px; */
+  /* padding-left: 30%; */
+  /* padding-right: 3%; */
+  /* font-size: 50px; */
+
+}
+
+li {
+  display: inline;
+
+}
+
+.menu {
+text-align: center;
+}
+
+.image {
+  display: flex;
+  border: 10px solid blue;
+  padding-left: 20px;
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  padding-left: 30%;
+  padding-right: 3%;
+  font-size: 100px;
+}
+
+.button{
+  border: 5px solid black;
+  padding-left: 10px;
+  margin-left: 20px;
+}
+
+.us {
+  margin-top: 75px
+}
